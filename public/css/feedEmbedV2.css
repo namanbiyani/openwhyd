@@ -250,9 +250,9 @@ body.playing_Vimeo:hover #headingBox #trackSrc {
 #whydPlayer > #whydLogo {
 	position: absolute;
 	top: 15px;
-	right: 15px;
+	right: 18px;
 	width: 45px;
-	height: 20px;
+	height: 31px;
 	background: url('/images/logo-white.png') no-repeat;
 }
 /*
